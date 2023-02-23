@@ -1,2 +1,10 @@
 [
+  {
+        "label" : "Mcreader.net",
+        "key" : "mcreader",
+        "path" : "mcreader",
+        "active" : false,
+        "version" : 0.1,
+        "seperateChapters" : true
+    }
 ]
