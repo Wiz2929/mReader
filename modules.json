@@ -3,7 +3,7 @@
         "label" : "Mcreader.net",
         "key" : "mcreader",
         "path" : "mcreader",
-        "packageUrl" : "https://github.com/Wiz2929/mReader/files/10812227/mcreader.zip",
+        "packageUrl" : "https://firebasestorage.googleapis.com/v0/b/website-mogul.appspot.com/o/mangaReader%2Fmodules%2Fmcreader%2Fmcreader.zip?alt=media&token=1b1d60d4-eb6b-43e2-ae6c-63e65ea2234f",
         "active" : false,
         "thumbnail" : "https://www.mreader.co/static/img/logo_200x200.png",
         "version" : 0.1,
