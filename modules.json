@@ -4,6 +4,7 @@
         "key" : "mcreader",
         "path" : "mcreader",
         "active" : false,
+        "thumbnail" : "https://www.mreader.co/static/img/logo_200x200.png",
         "version" : 0.1,
         "seperateChapters" : true
     }
