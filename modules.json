@@ -3,10 +3,10 @@
         "label" : "Mcreader.net",
         "key" : "mcreader",
         "path" : "mcreader",
-        "packageUrl" : "https://firebasestorage.googleapis.com/v0/b/website-mogul.appspot.com/o/mangaReader%2Fmodules%2Fmcreader%2Fmcreader.zip?alt=media&token=1a30cb28-aa98-4fe7-92a2-8e8bceb653b3",
+        "packageUrl" : "https://firebasestorage.googleapis.com/v0/b/website-mogul.appspot.com/o/mangaReader%2Fmodules%2Fmcreader%2Fmcreader.zip?alt=media&token=bbf1ac70-d8f6-4e56-8878-0dde3d7e8bb7",
         "active" : false,
         "thumbnail" : "https://www.mreader.co/static/img/logo_200x200.png",
-        "version" : 0.1,
+        "version" : 0.1.1,
         "seperateChapters" : true
     }
 ]
